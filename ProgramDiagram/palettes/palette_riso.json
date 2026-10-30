@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "programs": [
+    {
+      "key": "OFFICE",
+      "label": "Office",
+      "fill": "#3E9E6E",
+      "aliases": [
+        "OFFICE",
+        "ENCLOSED OFFICE",
+        "PRIVATE OFFICE"
+      ]
+    },
+    {
+      "key": "OPEN_OFFICE",
+      "label": "Open Office / Office Support",
+      "fill": "#AAD9BE",
+      "aliases": [
+        "OPEN OFFICE",
+        "OFFICE SUPPORT"
+      ]
+    },
+    {
+      "key": "LAB",
+      "label": "Lab",
+      "fill": "#3F6FC4",
+      "aliases": [
+        "LAB"
+      ]
+    },
+    {
+      "key": "LAB_SUPPORT",
+      "label": "Lab Support / Core Lab",
+      "fill": "#A9C2EC",
+      "aliases": [
+        "LAB SUPPORT",
+        "CORE LAB"
+      ]
+    },
+    {
+      "key": "CIRCULATION",
+      "label": "Circulation",
+      "fill": "#F3EEDF",
+      "aliases": [
+        "CIRCULATION",
+        "CORRIDOR",
+        "LOBBY CIRC"
+      ]
+    },
+    {
+      "key": "BUILDING_SUPPORT",
+      "label": "Building Support / Mechanical / Storage",
+      "fill": "#D6D3CB",
+      "aliases": [
+        "BUILDING SUPPORT",
+        "MECHANICAL",
+        "MEP",
+        "STORAGE",
+        "UTILITY",
+        "SUPPORT",
+        "SERVICE"
+      ]
+    },
+    {
+      "key": "VIVARIUM",
+      "label": "Vivarium",
+      "fill": "#9A6B4B",
+      "aliases": [
+        "VIVARIUM"
+      ]
+    },
+    {
+      "key": "VIVARIUM_SUPPORT",
+      "label": "Vivarium Support",
+      "fill": "#C9A88E",
+      "aliases": [
+        "VIVARIUM SUPPORT"
+      ]
+    },
+    {
+      "key": "VIVARIUM_PROCEDURE",
+      "label": "Vivarium Procedure",
+      "fill": "#EADBCD",
+      "aliases": [
+        "VIVARIUM PROCEDURE"
+      ]
+    },
+    {
+      "key": "CONFERENCE",
+      "label": "Conference",
+      "fill": "#F2A93B",
+      "aliases": [
+        "CONFERENCE",
+        "MEETING"
+      ]
+    },
+    {
+      "key": "LOBBY",
+      "label": "Lobby / Break",
+      "fill": "#FFD966",
+      "aliases": [
+        "LOBBY",
+        "BREAK",
+        "BREAK ROOM",
+        "RECEPTION"
+      ]
+    },
+    {
+      "key": "INTERACTION",
+      "label": "Interaction / Collab",
+      "fill": "#FBE6A2",
+      "aliases": [
+        "INTERACTION",
+        "COLLAB",
+        "LOUNGE"
+      ]
+    },
+    {
+      "key": "ASSEMBLY",
+      "label": "Assembly / Auditorium / Boardroom",
+      "fill": "#E8553F",
+      "aliases": [
+        "ASSEMBLY",
+        "AUDITORIUM",
+        "BOARDROOM",
+        "SEMINAR",
+        "SEMINAR ROOM",
+        "LECTURE"
+      ]
+    },
+    {
+      "key": "CLINIC",
+      "label": "Clinic",
+      "fill": "#1F9C9A",
+      "aliases": [
+        "CLINIC"
+      ]
+    },
+    {
+      "key": "CLINIC_SUPPORT",
+      "label": "Clinic Support",
+      "fill": "#A2D9D4",
+      "aliases": [
+        "CLINIC SUPPORT"
+      ]
+    },
+    {
+      "key": "GREEN_ROOF",
+      "label": "Green Roof / Sky Garden",
+      "fill": "#C6DE8C",
+      "aliases": [
+        "GREEN ROOF",
+        "ROOF GARDEN",
+        "SKY GARDEN",
+        "TERRACE",
+        "GARDEN",
+        "GREEN TERRACE"
+      ],
+      "stroke": "#A8BE7A",
+      "strokePt": 0.5
+    },
+    {
+      "key": "CORE",
+      "label": "Core",
+      "fill": "#8B8B86",
+      "aliases": [
+        "CORE"
+      ]
+    },
+    {
+      "key": "STAIR",
+      "label": "Stair / Transportation",
+      "fill": "#FF5FA2",
+      "aliases": [
+        "STAIR",
+        "ELEVATOR",
+        "TRANSPORTATION"
+      ]
+    },
+    {
+      "key": "SHELL",
+      "label": "Shell / Penthouse",
+      "fill": "#FFFFFF",
+      "stroke": "#000000",
+      "strokePt": 0.75,
+      "aliases": [
+        "SHELL",
+        "PENTHOUSE",
+        "SHELL SPACE",
+        "FUTURE"
+      ]
+    },
+    {
+      "key": "READING",
+      "label": "Reading Room / Study",
+      "fill": "#FF9A76",
+      "aliases": [
+        "READING",
+        "READING ROOM",
+        "STUDY",
+        "STUDY ROOM"
+      ]
+    },
+    {
+      "key": "COLLECTION",
+      "label": "Collection / Stacks",
+      "fill": "#6C63B5",
+      "aliases": [
+        "COLLECTION",
+        "STACKS",
+        "BOOK SPIRAL",
+        "ARCHIVE",
+        "BOOKS"
+      ]
+    },
+    {
+      "key": "CLASSROOM",
+      "label": "Classroom / Studio",
+      "fill": "#7FC8E8",
+      "aliases": [
+        "CLASSROOM",
+        "STUDIO",
+        "WORKSHOP",
+        "MAKERSPACE"
+      ]
+    },
+    {
+      "key": "EXHIBITION",
+      "label": "Exhibition / Gallery",
+      "fill": "#F7B7A3",
+      "aliases": [
+        "EXHIBITION",
+        "GALLERY",
+        "MUSEUM"
+      ]
+    },
+    {
+      "key": "RETAIL",
+      "label": "Retail / Cafe",
+      "fill": "#F6C9DA",
+      "aliases": [
+        "RETAIL",
+        "CAFE",
+        "RESTAURANT"
+      ]
+    },
+    {
+      "key": "RESIDENTIAL",
+      "label": "Residential / Housing",
+      "fill": "#D9C6EC",
+      "aliases": [
+        "RESIDENTIAL",
+        "HOUSING",
+        "APARTMENT",
+        "DORM"
+      ]
+    },
+    {
+      "key": "MEDIA",
+      "label": "Media / Digital Lab",
+      "fill": "#C455A8",
+      "aliases": [
+        "MEDIA",
+        "DIGITAL LAB",
+        "COMPUTER LAB",
+        "MIXING CHAMBER"
+      ]
+    },
+    {
+      "key": "PARKING",
+      "label": "Parking / Loading",
+      "fill": "#BEB8AC",
+      "aliases": [
+        "PARKING",
+        "LOADING",
+        "GARAGE"
+      ]
+    },
+    {
+      "key": "VOID",
+      "label": "Void",
+      "fill": null,
+      "stroke": "#000000",
+      "strokePt": 0.5,
+      "dash": [
+        3,
+        2
+      ],
+      "aliases": [
+        "VOID",
+        "OPEN TO BELOW"
+      ]
+    },
+    {
+      "key": "UNASSIGNED",
+      "label": "Unassigned",
+      "fill": "#C8C8C2",
+      "hatch": "diagonal",
+      "aliases": []
+    }
+  ],
+  "customPalette": [
+    "#5FB98B",
+    "#F5C542",
+    "#6F9BE0",
+    "#F08A64",
+    "#A58AD6",
+    "#4FB3B0",
+    "#E77FB0",
+    "#9BC45E",
+    "#D9A05B",
+    "#7A8FD1",
+    "#E9897E",
+    "#62A7C9"
+  ],
+  "customComment": "Public Edition (Riso): colours for custom programs, in order."
+}

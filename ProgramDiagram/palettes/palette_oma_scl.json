@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "comment": "Demo scheme: Seattle Central Library program names (OMA), approximate colours.",
+  "programs": [
+    {
+      "key": "PARKING",
+      "label": "Parking",
+      "fill": "#8C8C8C",
+      "aliases": [
+        "PARKING"
+      ]
+    },
+    {
+      "key": "STAFF",
+      "label": "Staff",
+      "fill": "#A07CC5",
+      "aliases": [
+        "STAFF"
+      ]
+    },
+    {
+      "key": "CHILDREN",
+      "label": "Children's",
+      "fill": "#F4A6C8",
+      "aliases": [
+        "CHILDREN",
+        "CHILDRENS",
+        "KIDS"
+      ]
+    },
+    {
+      "key": "AUDITORIUM",
+      "label": "Auditorium",
+      "fill": "#D9418C",
+      "aliases": [
+        "AUDITORIUM"
+      ]
+    },
+    {
+      "key": "LIVING_ROOM",
+      "label": "Living Room",
+      "fill": "#FFD21F",
+      "aliases": [
+        "LIVING ROOM"
+      ]
+    },
+    {
+      "key": "MEETING",
+      "label": "Meeting Platform",
+      "fill": "#E1251B",
+      "aliases": [
+        "MEETING",
+        "MEETING PLATFORM"
+      ]
+    },
+    {
+      "key": "MIXING",
+      "label": "Mixing Chamber",
+      "fill": "#F28C28",
+      "aliases": [
+        "MIXING CHAMBER"
+      ]
+    },
+    {
+      "key": "BOOK_SPIRAL",
+      "label": "Book Spiral",
+      "fill": "#3F67B1",
+      "aliases": [
+        "BOOK SPIRAL"
+      ]
+    },
+    {
+      "key": "READING_ROOM",
+      "label": "Reading Room",
+      "fill": "#8CC8E8",
+      "aliases": [
+        "READING ROOM"
+      ]
+    },
+    {
+      "key": "HQ",
+      "label": "Headquarters",
+      "fill": "#4CA35A",
+      "aliases": [
+        "HEADQUARTERS",
+        "HQ"
+      ]
+    },
+    {
+      "key": "CIRCULATION",
+      "label": "Circulation / Escalators",
+      "fill": "#DDE646",
+      "aliases": [
+        "CIRCULATION",
+        "ESCALATOR"
+      ]
+    },
+    {
+      "key": "CORE",
+      "label": "Core",
+      "fill": "#6E6E6E",
+      "aliases": [
+        "CORE"
+      ]
+    },
+    {
+      "key": "STAIR",
+      "label": "Stair / Elevator",
+      "fill": "#B9C400",
+      "aliases": [
+        "STAIR",
+        "ELEVATOR"
+      ]
+    },
+    {
+      "key": "BUILDING_SUPPORT",
+      "label": "Support",
+      "fill": "#CFCAC0",
+      "aliases": [
+        "SUPPORT",
+        "MECHANICAL",
+        "STORAGE"
+      ]
+    },
+    {
+      "key": "GREEN_ROOF",
+      "label": "Green Roof",
+      "fill": "#B7D48A",
+      "aliases": [
+        "GREEN ROOF",
+        "ROOF GARDEN"
+      ]
+    },
+    {
+      "key": "SHELL",
+      "label": "Shell",
+      "fill": "#FFFFFF",
+      "aliases": [
+        "SHELL"
+      ]
+    },
+    {
+      "key": "VOID",
+      "label": "Void",
+      "fill": null,
+      "aliases": [
+        "VOID",
+        "OPEN TO BELOW"
+      ]
+    },
+    {
+      "key": "UNASSIGNED",
+      "label": "Unassigned",
+      "fill": "#BFBFBF",
+      "aliases": []
+    }
+  ],
+  "customPalette": [
+    "#5FB98B",
+    "#F5C542",
+    "#6F9BE0",
+    "#F08A64",
+    "#A58AD6",
+    "#4FB3B0",
+    "#E77FB0",
+    "#9BC45E",
+    "#D9A05B",
+    "#7A8FD1",
+    "#E9897E",
+    "#62A7C9"
+  ],
+  "customComment": "Colours for custom programs, in order."
+}
