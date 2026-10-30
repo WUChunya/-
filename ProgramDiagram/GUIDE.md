@@ -58,6 +58,10 @@
 
 ![Section](sheets/02_Section_A.jpg)
 
+**爆炸轴测**（每层一块板，核心筒连接上下层，每层的玻璃 50 % 透明；楼层多时图幅用 Fit content）
+
+![Exploded](sheets/04_Axon_Exploded_AXON_EXPLODED.jpg)
+
 **叠合轴测 · 分层轴测**
 
 ![Stacked](sheets/03_Axon_Stacked_AXON_STACKED.jpg)
